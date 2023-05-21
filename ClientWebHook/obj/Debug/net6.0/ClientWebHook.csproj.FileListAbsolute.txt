@@ -1,0 +1,15 @@
+C:\Users\Luis Patiño\OneDrive\Proyectos Personales\WebHook\ClientWebHook\ClientWebHook\obj\Debug\net6.0\ClientWebHook.csproj.AssemblyReference.cache
+C:\Users\Luis Patiño\OneDrive\Proyectos Personales\WebHook\ClientWebHook\ClientWebHook\obj\Debug\net6.0\ClientWebHook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Patiño\OneDrive\Proyectos Personales\WebHook\ClientWebHook\ClientWebHook\obj\Debug\net6.0\ClientWebHook.AssemblyInfoInputs.cache
+C:\Users\Luis Patiño\OneDrive\Proyectos Personales\WebHook\ClientWebHook\ClientWebHook\obj\Debug\net6.0\ClientWebHook.AssemblyInfo.cs
+C:\Users\Luis Patiño\OneDrive\Proyectos Personales\WebHook\ClientWebHook\ClientWebHook\obj\Debug\net6.0\ClientWebHook.csproj.CoreCompileInputs.cache
+C:\Users\Luis Patiño\OneDrive\Proyectos Personales\WebHook\ClientWebHook\ClientWebHook\bin\Debug\net6.0\ClientWebHook.exe
+C:\Users\Luis Patiño\OneDrive\Proyectos Personales\WebHook\ClientWebHook\ClientWebHook\bin\Debug\net6.0\ClientWebHook.deps.json
+C:\Users\Luis Patiño\OneDrive\Proyectos Personales\WebHook\ClientWebHook\ClientWebHook\bin\Debug\net6.0\ClientWebHook.runtimeconfig.json
+C:\Users\Luis Patiño\OneDrive\Proyectos Personales\WebHook\ClientWebHook\ClientWebHook\bin\Debug\net6.0\ClientWebHook.dll
+C:\Users\Luis Patiño\OneDrive\Proyectos Personales\WebHook\ClientWebHook\ClientWebHook\bin\Debug\net6.0\ClientWebHook.pdb
+C:\Users\Luis Patiño\OneDrive\Proyectos Personales\WebHook\ClientWebHook\ClientWebHook\obj\Debug\net6.0\ClientWebHook.dll
+C:\Users\Luis Patiño\OneDrive\Proyectos Personales\WebHook\ClientWebHook\ClientWebHook\obj\Debug\net6.0\refint\ClientWebHook.dll
+C:\Users\Luis Patiño\OneDrive\Proyectos Personales\WebHook\ClientWebHook\ClientWebHook\obj\Debug\net6.0\ClientWebHook.pdb
+C:\Users\Luis Patiño\OneDrive\Proyectos Personales\WebHook\ClientWebHook\ClientWebHook\obj\Debug\net6.0\ClientWebHook.genruntimeconfig.cache
+C:\Users\Luis Patiño\OneDrive\Proyectos Personales\WebHook\ClientWebHook\ClientWebHook\obj\Debug\net6.0\ref\ClientWebHook.dll
